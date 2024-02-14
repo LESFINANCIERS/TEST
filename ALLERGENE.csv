@@ -1,0 +1,15 @@
+﻿~id;name; batch;unit;categorie;PA;PV;TxMO;label;product_code;Qty_production
+v272;Gluten_A;;;;;;;ALLERGENE;A1;
+v273;Poissons_A;;;;;;;ALLERGENE;A2;
+v274;Crustaces_A;;;;;;;ALLERGENE;A3;
+v275;Œufs_A;;;;;;;ALLERGENE;A4;
+v276;Arachides_A;;;;;;;ALLERGENE;A5;
+v277;Moutardes_A;;;;;;;ALLERGENE;A6;
+v278;Mollusques_A;;;;;;;ALLERGENE;A7;
+v279;Soja_A;;;;;;;ALLERGENE;A8;
+v280;Sulfites_A;;;;;;;ALLERGENE;A9;
+v281;Sesame_A;;;;;;;ALLERGENE;A10;
+v282;Celeri_A;;;;;;;ALLERGENE;A11;
+v283;Lupins_A;;;;;;;ALLERGENE;A12;
+v284;Lait_A;;;;;;;ALLERGENE;A13;
+v285;Fruits_a_coque_A;;;;;;;ALLERGENE;A14;

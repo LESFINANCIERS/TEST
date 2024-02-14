@@ -1,0 +1,4 @@
+﻿~id;name; batch;unit;categorie;PA;PV;TxMO;label;product_code;Qty_production
+v300;Camion;;;;;;;TRANSPORT;;
+v301;Velo;;;;;;;TRANSPORT;;
+v302;Train;;;;;;;TRANSPORT;;

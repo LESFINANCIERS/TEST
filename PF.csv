@@ -1,0 +1,105 @@
+﻿~id;name; batch;unit;categorie;PA;PV;TxMO;label;product_code;Qty_production
+v2;Croissant;80;pcs;VIENNOISERIE;;1.1;;PF;2101;178
+v24;Pain au Chocolat;80;pcs;VIENNOISERIE;;1.2;;PF;2102;180
+v25;Pain aux Raisins;40;pcs;VIENNOISERIE;;1.7;;PF;2103;52
+v26;Eclair;50;pcs;PATISSERIE;;2.60;;PF;3401;50
+v27;Baguette;40;pcs;PAIN;;1;;PF;1101;152
+v30;Tradition;40;pcs;PAIN;;1.2;;PF;1102;86
+v33;Sandwich Thon;40;pcs;SNACKING;;4.2;;PF;4202;22
+v38;Flan Nature Ø 22cm;7;pcs;PATISSERIE;;18;;PF;3719;7
+v40;Flan Nature Ø 18cm;7;pcs;PATISSERIE;;12;;PF;3722;0
+v41;Flan Nature Ø 20cm;7;pcs;PATISSERIE;;15;;PF;3723;0
+v42;Flan Nature Ø 24cm;7;pcs;PATISSERIE;;19;;PF;3720;0
+v43;Flan Nature Ø 26cm;7;pcs;PATISSERIE;;21;;PF;3721;0
+v48;Chouquette;40;pcs;PATISSERIE;;0.2;;PF;2111;40
+v54;Chausson aux pommes;40;pcs;VIENNOISERIE;;1.40;;PF;2104;40
+v58;Croissant Amande;40;pcs;VIENNOISERIE;;1.95;;PF;2110;40
+v62;1/2 Baguette;1;pcs;PAIN;;0.5;;PF;1104;100
+v63;1/2 Tradition;1;pcs;PAIN;;0.6;;PF;1105;100
+v64;Pain suisse;40;pcs;VIENNOISERIE;;1.8;;PF;2106;40
+v67;Brioche Nanterre;10;pcs;VIENNOISERIE;;8.3;;PF;2121;10
+v68;Pain au chocolat Amande;40;pcs;VIENNOISERIE;;2;;PF;2109;40
+v69;Madeleine;60;pcs;PATISSERIE;;1.3;;PF;3101;60
+v74;Viennoise (grande);20;pcs;VIENNOISERIE;;1.8;;PF;2112;20
+v76;Viennoise (petite);20;pcs;VIENNOISERIE;;0.9;;PF;;14
+v77;Viennoise chocolat;20;pcs;VIENNOISERIE;;1.8;;PF;2120;20
+v78;Croissant Ordinaire;60;pcs;VIENNOISERIE;;1;;PF;2105;60
+v81;Cookie;60;pcs;PATISSERIE;;2.3;;PF;3106;60
+v84;Galette Ø 20cm;15;pcs;PATISSERIE;;15;;PF;3206;15
+v85;Galette Ø 24cm;15;pcs;PATISSERIE;;21;;PF;3207;15
+v86;Galette Ø 26cm;15;pcs;PATISSERIE;;25;;PF;3204;15
+v87;Galette Ø 18cm;15;pcs;PATISSERIE;;12;;PF;3202;15
+v89;Galette Ø 22cm;15;pcs;PATISSERIE;;18;;PF;3203;15
+v92;Financier;40;pcs;PATISSERIE;;1.20;;PF;3104;40
+v94;tarte au citron Ø 26cm;1;pcs;PATISSERIE;;24;;PF;3725;0
+v95;tarte au citron Ø 24cm;1;pcs;PATISSERIE;;20;;PF;3712;0
+v96;tarte au citron Ø 20cm;1;pcs;PATISSERIE;;14;;PF;3726;0
+v98;tarte au citron Ø 22cm;1;pcs;PATISSERIE;;17;;PF;3724;4
+v108;tarte amandine citron Ø 22cm;1;pcs;PATISSERIE;;17;;PF;3713;1
+v109;tarte citron Meuringue Ø 22cm;1;pcs;PATISSERIE;;17;;PF;3714;1
+v111;Tarte chocolat Ø 22cm;1;pcs;PATISSERIE;;17;;PF;3705;1
+v115;Tarte poire amandine Ø 22cm;1;pcs;PATISSERIE;;17;;PF;3702;1
+v117;Royal Ø 20cm;3;pcs;PATISSERIE;;25;;PF;3406;1
+v128;Cake Citron 16cm;1;pcs;PATISSERIE;;14;;PF;3803;2
+v132;Tarte aux Pommes Ø 22cm;1;pcs;PATISSERIE;;17;;PF;3701;1
+v134;Paris Brest;1;pcs;PATISSERIE;;2.3;;PF;3403;4
+v137;Beignet Nature;30;pcs;VIENNOISERIE;;2.4;;PF;2107;30
+v139;Beignet Nutella;30;pcs;VIENNOISERIE;;2.7;;PF;2122;30
+v141;Beignet Framboise;30;pcs;VIENNOISERIE;;2.7;;PF;2123;30
+v144;Mini Beignet Nature;60;pcs;VIENNOISERIE;;0.6;;PF;2108;60
+v145;Mini Beignet Nutella;60;pcs;VIENNOISERIE;;0.75;;PF;2124;60
+v146;Min Beignet Framboise;60;pcs;VIENNOISERIE;;0.75;;PF;2125;60
+v147;Religieuse Cafe;16;pcs;PATISSERIE;;2.3;;PF;3407;16
+v151;Religieuse Chocolat;16;pcs;PATISSERIE;;2.3;;PF;3408;16
+v154;Religieuse Vanille;16;pcs;PATISSERIE;;2.3;;PF;3409;16
+v155;Brioche a tete;10;pcs;VIENNOISERIE;;1.25;;PF;2126;10
+v156;Brioche Parisienne;10;pcs;VIENNOISERIE;;6.20;;PF;2127;10
+v157;Brioche Couronne;10;pcs;VIENNOISERIE;;3.11;;PF;2128;10
+v158;Brioche longue;10;pcs;VIENNOISERIE;;1.25;;PF;2129;10
+v159;Brownie 25x25;2;pcs;PATISSERIE;;20;;PF;3105;2
+v163;Quiche lorraine Ø 20cm;1;pcs;SNACKING;;17.5;;PF;4411;0
+v164;Quiche lorraine Ø 22cm;1;pcs;SNACKING;;21;;PF;4412;0
+v165;Quiche lorraine Ø 24cm;1;pcs;SNACKING;;24.5;;PF;4413;0
+v166;Quiche lorraine Ø 26cm;1;pcs;SNACKING;;28;;PF;4414;0
+v167;Quiche lorraine Ø 18cm;1;pcs;SNACKING;;14;;PF;4408;5
+v175;Quiche chevre epinard Ø 18cm;1;pcs;SNACKING;;14;;PF;4409;6
+v177;Quiche chevre epinard Ø 20cm;1;pcs;SNACKING;;17.5;;PF;4415;0
+v178;Quiche chevre epinard Ø 22cm;1;pcs;SNACKING;;21;;PF;4416;0
+v179;Quiche chevre epinard Ø 24cm;1;pcs;SNACKING;;24.5;;PF;4417;0
+v180;Quiche chevre epinard Ø 26cm;1;pcs;SNACKING;;28;;PF;4418;0
+v183;Quiche saumon epinard Ø 18cm;1;pcs;SNACKING;;14;;PF;4410;4
+v185;Quiche saumon epinard Ø 20cm;1;pcs;SNACKING;;17.5;;PF;4419;0
+v186;Quiche saumon epinard Ø 22cm;1;pcs;SNACKING;;21;;PF;4420;0
+v187;Quiche saumon epinard Ø 24cm;1;pcs;SNACKING;;24.5;;PF;4421;0
+v188;Quiche saumon epinard Ø 26cm;1;pcs;SNACKING;;28;;PF;4422;0
+v190;Cannele;20;pcs;PATISSERIE;;1.7;;PF;3102;20
+v192;Succes Ø 20cm;1;pcs;PATISSERIE;;25;;PF;3715;1
+v195;Progres Ø 20cm;1;pcs;PATISSERIE;;25;;PF;3716;1
+v198;Moka;1;pcs;PATISSERIE;;25;;PF;3717;1
+v200;Mille-feuille 8p (40x13);1;pcs;PATISSERIE;;26;;PF;3718;1
+v201;Mille-feuille individuel;1;pcs;PATISSERIE;;3.3;;PF;3402;12
+v202;Sandwich Jambon Fromage;1;pcs;SNACKING;;4.2;;PF;4203;25
+v203;Sandwich Poulet Crudités;1;pcs;SNACKING;;4.2;;PF;4201;28
+v204;Sandwich Jambon beurre;1;pcs;SNACKING;;4.2;;PF;4209;8
+v205;Sandwich Rosette Beurre;1;pcs;SNACKING;;4.2;;PF;4204;12
+v210;Biscuit QINTO;42;pcs;PATISSERIE;;0.4;;PF;9999;500
+v217;Tourte Meule 1kg;1;pcs;PAIN;;4;;PF;1111;10
+v218;Tourte Meule 1.5kg;1;pcs;PAIN;;6;;PF;1116;6
+v223;Pain Seigle 1kg;1;pcs;PAIN;;7.2;;PF;1202;2
+v227;Pain Petit Epeautre 1kg;1;pcs;PAIN;;12;;PF;1207;5
+v231;Pain Nordique 1kg;1;pcs;PAIN;;7.5;;PF;1205;4
+v232;Pain Mais;8;pcs;PAIN;;4;;PF;1204;3
+v235;Couronne Aperitive;9;pcs;PAIN;;3.9;;PF;1212;9
+v240;Tradition cereales;40;pcs;PAIN;;1.4;;PF;1106;40
+v243;Pain Sarrasin;5;pcs;PAIN;;4;;PF;1208;5
+v254;Tradition noix;5;pcs;PAIN;;1.4;;PF;1201;5
+v256;Pave de Tradition;20;pcs;PAIN;;1.5;;PF;1110;20
+v257;Focaccia nature;6;pcs;PAIN;;10;;PF;1210;6
+v260;Focaccia tomate olive;6;pcs;PAIN;;11;;PF;1213;6
+v261;Focaccia parmesan herbe de provence;6;pcs;PAIN;;11;;PF;1214;6
+v262;Oranais;20;pcs;VIENNOISERIE;;1.95;;PF;2116;20
+v263;Escargot Pralines;40;pcs;VIENNOISERIE;;1.75;;PF;2130;40
+v264;Palmier;30;pcs;VIENNOISERIE;;2.2;;PF;2131;30
+v265;Brioche aux pralines;10;pcs;VIENNOISERIE;;1.5;;PF;2132;10
+v266;Muffin Chocolat;30;pcs;PATISSERIE;;2.15;;PF;3110;30
+v268;Muffin Pepites Chocolat;30;pcs;PATISSERIE;;2.15;;PF;3111;30
