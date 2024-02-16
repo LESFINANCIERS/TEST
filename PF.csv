@@ -1,4 +1,4 @@
-﻿~id;name; batch;unit;categorie;PA;PV;TxMO;label;product_code;Qty_production
+﻿~id;name;batch;unit;categorie;PA;PV;TxMO;label;product_code;Qty_production
 v2;Croissant;80;pcs;VIENNOISERIE;;1.1;;PF;2101;178
 v24;Pain au Chocolat;80;pcs;VIENNOISERIE;;1.2;;PF;2102;180
 v25;Pain aux Raisins;40;pcs;VIENNOISERIE;;1.7;;PF;2103;52
